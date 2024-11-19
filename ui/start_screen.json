@@ -1,0 +1,180 @@
+{
+	"namespace": "start",
+	"copyright@common_buttons.light_content_button": {
+		"anchor_from": "bottom_middle",
+		"anchor_to": "bottom_middle",
+		"offset": [
+			"0", // Posisi responsif dari tepi kiri
+			"-5%" // Posisi responsif dari tepi bawah
+		],
+		"size": [
+			26,
+			26
+		],
+		"$pressed_button_name": "button.menu_buy_game",
+		"$button_content": "start.ak_start",
+		"$default_button_alpha": 1.0,
+		"$default_hover_alpha": 1.0
+	},
+	"ak_start": {
+		"type": "stack_panel",
+		"orientation": "horizontal",
+		"controls": [
+			{
+				"ico": {
+					"type": "image",
+					"texture": "imagesui/inpo",
+					"size": [
+						20,
+						20
+					]
+				}
+			}
+		]
+	},
+	"ak_scroll@common.scrolling_panel": {
+		"$show_background": false,
+		"$scrolling_content": "start.ak_panel"
+	},
+	"ak_main@common_dialogs.main_panel_no_buttons": {
+		"size": [
+			"80%",
+			"80%"
+		],
+		"$text_name": " ",
+		"$child_control": "start.ak_scroll"
+	},
+	"ak_panel": {
+		"type": "stack_panel",
+		"orientation": "horizontal",
+		"size": [
+			140,
+			140
+		],
+		"offset": [
+			4,
+			10
+		],
+		"controls": [
+			{
+				"l": {
+					"type": "stack_panel",
+					"size": [
+						132,
+						132
+					],
+					"controls": [
+						{
+							"i": {
+								"type": "image",
+								"texture": "imagesui/Fauzan",
+								"size": [
+									128,
+									128
+								]
+							}
+						},
+						{
+							"w": {
+								"type": "label",
+								"text": "\n§eCopyright © 2024 ALL RIGHTS RESERVED | Texture by AhZanMC"
+							}
+						},
+						{
+							"y": {
+								"type": "image",
+								"texture": "imagesui/sites",
+								"size": [
+									20,
+									20
+								]
+							}
+						}
+					]
+				}
+			},
+			{
+				"r": {
+					"type": "stack_panel",
+					"size": [
+						200,
+						132
+					],
+					"controls": [
+						{
+							"n": {
+								"type": "label",
+								"font_scale_factor": 2.1,
+								"text": "ZanTweaks"
+							}
+						},
+						{
+							"x": {
+								"type": "label",
+								"font_scale_factor": 1.0,
+								"text": "An Aesthetic and Smooth Texture Pack"
+							}
+						},
+						{
+							"l": {
+								"type": "label",
+								"text": "\n"
+							}
+						},
+						{
+							"u": {
+								"type": "label",
+								"text": "Creator : AhZanMC \n§cYT : AhZanMC \n§fIG : @ahzanmc \n§eTiktok : @ahzanmc \n§aOfficial Website : repozan.ahzanmc.my.id \n§bDiscord : https://bit.ly/JoinDCAhZanMC§r"
+							}
+						},
+						{
+							"p": {
+								"type": "label",
+								"font_scale_factor": 0.8,
+								"text": "Semoga kamu suka dengan Texture ku :)"
+							}
+						}
+					]
+				}
+			}
+		]
+	},
+	"store_button_sale_banner@start.sale_ribbon_icon": {
+		"size": [
+			"100%c",
+			16
+		],
+		"controls": [
+			{
+				"banner_label_padding": {
+					"type": "panel",
+					"size": [
+						"100%c + 12px",
+						"100%"
+					],
+					"controls": [
+						{
+							"banner_label": {
+								"type": "label",
+								"size": [
+									"default",
+									10
+								],
+								"offset": [
+									-1,
+									-1
+								],
+								"text": "store.startMenu.sale",
+								"color": "$store_sales_banner_text_color",
+								"layer": 1,
+								"tts_name": "accessibility.store.tag",
+								"tts_control_type_order_priority": 1004,
+								"tts_value_order_priority": 1003
+							}
+						}
+					]
+				}
+			}
+		]
+	}
+}

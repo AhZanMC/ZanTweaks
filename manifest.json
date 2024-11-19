@@ -1,0 +1,30 @@
+{
+   "format_version" : 2,
+   "header" : {
+      "description" : "An Aesthetic and Smooth Texture Pack for Bedrock Edition \n§6Creator : AhZanMC \n§cYT : AhZanMC \n§fIG : @ahzanmc \n§eTiktok : @ahzanmc \n§aOfficial Website : repozan.ahzanmc.my.id \n§bDiscord : https://bit.ly/JoinDCAhZanMC",
+      "name" : "§eZanTweaks",
+      "uuid" : "e0d954be-2296-44fc-8a2c-b5d2e9e6fdd3",
+      "version" : [ 1, 0, 0 ],
+      "min_engine_version": [1, 20, 0]
+   },
+   "modules" : [
+      {
+         "description" : "An Aesthetic and Smooth Texture Pack for Bedrock Edition \n§6Creator : AhZanMC \n§cYT : AhZanMC \n§fIG : @ahzanmc \n§eTiktok : @ahzanmc \n§aOfficial Website : repozan.ahzanmc.my.id \n§bDiscord : https://bit.ly/JoinDCAhZanMC",
+         "type" : "resources",
+         "uuid" : "7c2f4c79-5849-4e28-b8cb-4699c4322e35",
+         "version" : [ 1, 0, 0 ]
+      }
+   ],
+   "subpacks": [
+      {
+         "folder_name": "Pack 0",
+         "name": "No Button \n§cWARNING!!! \n§cSetelah memilih ini,restart Minecraft terlebih dahulu untuk mendapatkan pengalaman yang terbaik!",
+         "memory_tier": 1
+         },
+      {
+         "folder_name": "Pack 1",
+         "name": "Default \n§cWARNING!!! \n§cSetelah memilih ini,restart Minecraft terlebih dahulu untuk mendapatkan pengalaman yang terbaik!",
+         "memory_tier": 1
+         }
+      ]
+}

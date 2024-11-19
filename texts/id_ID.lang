@@ -1,0 +1,34 @@
+﻿##  Raid Texts Input
+raid.name=Raid	#
+raid.progress=Mobs remaining:	#
+
+##  Raid Texts Output
+bar.event.raid.name=Serbuan	#
+bar.event.raid.remaining.2=Serbuan - Mob tersisa: 2	#
+bar.event.raid.remaining.1=Serbuan - Mob tersisa: 1	#
+bar.event.raid.remaining.0=Serbuan - Mob tersisa: 0	#
+
+##  Death Screen
+
+deathScreen.deleteWorld=Delete world
+deathScreen.hardcoreInfo=You cannot respawn in hardcore mode!
+deathScreen.leaveServer=Leave server
+deathScreen.quit.confirmToMainMenuWarning=Yakin Anda Mau ke Isekai?,gk nyesel nih? :V
+deathScreen.quit.confirmToMainMenuTitleWarning=Yakin Mau Ke Isekai?
+deathScreen.quit.secondaryClient=Simpan and otw Isekai :v
+deathScreen.quit.secondaryClient.confirmLeaveWarning=Yakin Anda Mau ke Isekai?,gk nyesel nih? :V
+deathScreen.quit.secondaryClient.confirmLeaveTitleWarning=Simpan dan otw isekai :v
+
+deathScreen.message=Auto Masuk Lobby!
+deathScreen.quit=Ke Isekai :V
+deathScreen.quit.confirm=Yakin Anda Mau ke Isekai?,gk nyesel nih? :V
+deathScreen.respawn=Edotense
+
+deathScreen.score=Gk Penting :V
+deathScreen.title=Wahaha Cupu!
+deathScreen.title.hardcore=Game over!
+deathScreen.titleScreen=Otw Isekai
+
+## Map Position
+map.position.agent=Agent Pos:1: %s,2: %s,3: %s
+map.position=§ePosisi: %s, %s, %s
