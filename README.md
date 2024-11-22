@@ -1,54 +1,17 @@
-﻿Info Texture ZanTweaks
-INFO TEXTURE INI
-================
+![Views](https://komarev.com/ghpvc/?username=AhZanMC)
 
----
+![alt text](pack_icon.png)
 
-Texture : ZanTweaks
-Creator : AhZanMC
-=================
+![Creator](https://img.shields.io/badge/Author-AhZanMC-yellow)
+[![Generic badge](https://img.shields.io/badge/Release-version1-purple.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/UpdatedAt-Monday,_November_22,_2024-purple.svg)](https://shields.io/)
 
----
+![Generic Badge](https://img.shields.io/github/downloads/AhZanMC/ZanTweaks/total) ![Size](https://img.shields.io/github/repo-size/AhZanMC/ZanTweaks)
 
-**PERHATIAN**
 
-Terima kasih yang sudah mencoba texture ini,semoga kalian suka dan betah bermain Minecraft dengan texture ini. ZanTweaks adalah sebuah texture pack keren yang dibuat oleh AhZanMC dan ini merupakan texture lanjutan dari FG24 PE Pack
+<p align="center"> 
+    <a href="https://github.com/AhZanMC/ZanTweaks/releases/download/Released/">Download</a> |
+    <a href="https://bio-link.ahzanmc.my.id/">Creator</a> |
+    <a href="https://saweria.co/AhZanMC">Support Me</a>
+</p>
 
-**NOTE :**
-
-Sejak MCPE 1.18.30 Official dan keatas,shader sudah tidak support MCPE lagi.Karena Mcpe menggunakan render dragon. Kalo mau di showcase/review silahkan
-
-Subscribe channel AhZanMC
-
-Follow IGKu : @ahzanmc
-
-Follow Tiktokku : @ahzanmc
-
-Support AhZanMC dengan cara donate (yang penting ikhlas hehehe)
-[https://saweria.co/AhZanMC](https://saweria.co/AhZanMC "Klik disini")
-
-Selamat Bermain dan Semoga kamu suka texture ini.
-
-Sekian terima kasih
-
-# Credit
-
----
-
-**Spesial thank to**
-Allah SWT
-
-**Thanks to**
-
-- My friend
-- Nived (NMT GAMERZ)
-- All member from Sahabat Minecrafter
-- All member from Chronoscraft Remastered
-- All member from MCSEJATI
-- All member from IndoCrafter
-- All member from United Kocheng Kingdom Community
-- All member from Minecraft ID (MCID)
-- All member from Youtuber Community and Other Community
-- All Membership for all tier
-- Youtuber-youtuber minecraft
-- Everyone
+ZanTweaks adalah texture pack aesthetic dan smooth untuk Minecraft Bedrock Edition. Texture ini dirancang untuk memberikan pengalaman visual yang memanjakan mata tetapi ramah untuk device kentang. Texture ini merupakan next gen dari texture pendahulu yaitu FG24 PE Pack, membawa pengalaman visual yang lebih halus dan detail.
