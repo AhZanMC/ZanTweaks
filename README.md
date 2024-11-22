@@ -9,7 +9,7 @@
 
 
 <p align="center"> 
-    <a href="https://github.com/AhZanMC/ZanTweaks/releases/download/Released/">Download</a> |
+    <a href="https://github.com/AhZanMC/ZanTweaks/releases">Download</a> |
     <a href="https://bio-link.ahzanmc.my.id/">Creator</a> |
     <a href="https://saweria.co/AhZanMC">Support Me</a>
 </p>
